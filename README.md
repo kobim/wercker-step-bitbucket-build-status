@@ -2,6 +2,8 @@
 
 Posts wercker build status to the bitbucket repository.
 
+[![wercker status](https://app.wercker.com/status/d3a53826349f440a8dd568ec421f1e7f/m "wercker status")](https://app.wercker.com/project/bykey/d3a53826349f440a8dd568ec421f1e7f)
+
 ### Required fields
 
 * `username` - API username.
