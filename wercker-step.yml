@@ -1,0 +1,14 @@
+name: bitbucket-build-status
+version: 0.0.1
+description: Posts wercker build status to Bitbucket.
+keywords:
+  - notification
+  - status
+  - bitbucket
+properties:
+  username:
+    type: string
+    required: true
+  password:
+    type: string
+    required: true
